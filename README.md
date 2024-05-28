@@ -1,23 +1,22 @@
+# These stats mean nothing #
+I have three 10k-line asm files
 <div>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsvaldoComCH&layout=compact&hide_border=true&langs_count=7&theme=dark&bg_color=0d1117"/>
+</div>
+
+## These do ##
+
+<div>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=OsvaldoComCH&show_icons=true&theme=dark&include_all_commits=true&count_private=false&hide_border=true&bg_color=0d1117"/>
+</div>
+
+# This is my most prized project yet (WIP) #
+<div style="display: flex;">
   <img src="Tetris.png">
 </div>
 <!--
-**OsvaldoComCH/OsvaldoComCH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <div align="center">
   <a href="https://github.com/OsvaldoComCH">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=OsvaldoComCH&show_icons=true&theme=dark&include_all_commits=true&count_private=false&hide_border=true&bg_color=0d1117"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsvaldoComCH&layout=compact&hide_border=true&langs_count=7&theme=dark&bg_color=0d1117"/>
 </div>
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
