@@ -1,4 +1,10 @@
 
+<div align="center">
+  <a href="https://github.com/OsvaldoComCH">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=OsvaldoComCH&show_icons=true&theme=dark&include_all_commits=true&count_private=false&hide_border=true&bg_color=0d1117"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsvaldoComCH&layout=compact&hide_border=true&langs_count=7&theme=dark&bg_color=0d1117"/>
+</div>
+
 <!--
 **OsvaldoComCH/OsvaldoComCH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
