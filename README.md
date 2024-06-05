@@ -11,9 +11,12 @@ I have three 10k-line asm files
 </div>
 
 # This is my most prized project yet (WIP) #
-<div style="display: flex;">
-  <img src="Tetris.png">
-</div>
+<a href="https://github.com/OsvaldoComCH/Tetris_CPP/releases/tag/v0.0.1">
+    <div style="display: flex;">
+      <img src="Tetris.png">
+    </div>
+</a>
+
 <!--
 
 <div align="center">
