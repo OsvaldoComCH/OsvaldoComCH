@@ -11,7 +11,7 @@ I have three 10k-line asm files
 </div>
 
 # This is my most prized project yet (WIP) #
-<a href="https://github.com/OsvaldoComCH/Tetris_CPP/releases/tag/v0.1.0">
+<a href="https://github.com/OsvaldoComCH/Tetris_CPP/releases/latest">
     <div style="display: flex;">
       <img src="Tetris.png">
     </div>
