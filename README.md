@@ -12,7 +12,7 @@ A nice Tetris clone I am making in C++.
 ## Ternaria
 Made by me and my friends [Amilton](https://github.com/AmiltonMn) and [Fernando](https://github.com/FernandoHka).
 
-We used just C and Windows. No libraries, no frameworks, and no experience with game developement. It was fun :)
+We used just C and Windows. No libraries, no frameworks, and no prior experience with game developement. It was fun :)
 
 [![Ternaria](/Ternaria.png)](https://github.com/OsvaldoComCH/Ternaria/releases/latest)
 
